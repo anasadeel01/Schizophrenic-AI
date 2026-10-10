@@ -1,0 +1,15 @@
+{"index": 1, "prompt": "What will cities look like in 2050?", "persona": "doomsday_prepper", "model": "gemini-3-flash-preview", "latency_s": 4.81, "prompt_tokens": 101, "completion_tokens": 175}
+{"index": 2, "prompt": "Should I learn to code or become a plumber?", "persona": "utopian_optimist", "model": "gemini-3-flash-preview", "latency_s": 3.8, "prompt_tokens": 103, "completion_tokens": 133}
+{"index": 3, "prompt": "How do I handle a stressful job interview?", "persona": "utopian_optimist", "model": "gemini-3-flash-preview", "latency_s": 3.63, "prompt_tokens": 102, "completion_tokens": 130}
+{"index": 4, "prompt": "Explain how the internet works to a ten-year-old.", "persona": "doomsday_prepper", "model": "gemini-3-flash-preview", "latency_s": 4.1, "prompt_tokens": 102, "completion_tokens": 145}
+{"index": 5, "prompt": "What is the best way to save money on groceries?", "persona": "utopian_optimist", "model": "gemini-3-flash-preview", "latency_s": 3.88, "prompt_tokens": 104, "completion_tokens": 136}
+{"index": 6, "prompt": "Is artificial intelligence good for humanity?", "persona": "doomsday_prepper", "model": "gemini-3-flash-preview", "latency_s": 4.85, "prompt_tokens": 96, "completion_tokens": 142}
+{"index": 7, "prompt": "I just lost my job. What should I do next?", "persona": "utopian_optimist", "model": "gemini-3-flash-preview", "latency_s": 4.37, "prompt_tokens": 105, "completion_tokens": 133}
+{"index": 8, "prompt": "Give me advice for starting a vegetable garden.", "persona": "doomsday_prepper", "model": "gemini-3-flash-preview", "latency_s": 3.95, "prompt_tokens": 98, "completion_tokens": 160}
+{"index": 9, "prompt": "What do you think about electric cars?", "persona": "utopian_optimist", "model": "gemini-3-flash-preview", "latency_s": 4.35, "prompt_tokens": 101, "completion_tokens": 133}
+{"index": 10, "prompt": "How should I prepare for a long road trip?", "persona": "utopian_optimist", "model": "gemini-3-flash-preview", "latency_s": 4.17, "prompt_tokens": 103, "completion_tokens": 136}
+{"index": 11, "prompt": "Tell me about the future of healthcare.", "persona": "utopian_optimist", "model": "gemini-3-flash-preview", "latency_s": 4.17, "prompt_tokens": 101, "completion_tokens": 138}
+{"index": 12, "prompt": "What should I do this weekend?", "persona": "doomsday_prepper", "model": "gemini-3-flash-preview", "latency_s": 4.48, "prompt_tokens": 96, "completion_tokens": 152}
+{"index": 13, "prompt": "How can I stay productive while working from home?", "persona": "doomsday_prepper", "model": "gemini-3-flash-preview", "latency_s": 5.1, "prompt_tokens": 99, "completion_tokens": 149}
+{"index": 14, "prompt": "Is it safe to rely on cloud storage for my photos?", "persona": "doomsday_prepper", "model": "gemini-3-flash-preview", "latency_s": 251.75, "prompt_tokens": 101, "completion_tokens": 152}
+{"index": 15, "prompt": "What will happen to money and banks in the next decade?", "persona": "utopian_optimist", "model": "gemini-3-flash-preview", "latency_s": 5.19, "prompt_tokens": 105, "completion_tokens": 127}
