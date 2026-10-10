@@ -1,4 +1,4 @@
-# Arithmatrix AVIP 2026 — Generative AI | Text Generation
+# Generative AI | Text Generation
 
 **The Schizophrenic AI: One Prompt, Two Opposing Perspectives**
 
