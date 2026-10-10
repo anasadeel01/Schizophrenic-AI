@@ -10,14 +10,7 @@ A generative AI application that responds to user messages using one of two cont
 
 ## Live Demo
 
-🚀 **Try The Deepfake Coder online:** [Launch the Web App](https://schizophrenic-ai.streamlit.app/)
-
-Explore a statistical code-generation experiment that uses Markov chains trained exclusively on Python source code to produce syntactically valid yet semantically incoherent programs.
-
-**Features available in the demo:**
-- Generate Python code from custom seeds or prompts.
-- Experiment with different generation settings.
-- Explore the distinction between syntactic validity and semantic correctness.
+🚀 **Try The Schizophrenic AI online:** [Launch the Web App](https://schizophrenic-ai.streamlit.app/)
 
 **Note:** The app is hosted on Streamlit Community Cloud. It may take a short time to start if it has been inactive.
 
